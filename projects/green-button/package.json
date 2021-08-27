@@ -1,0 +1,13 @@
+{
+  "name": "green-button-prueba",
+  "version": "0.0.1",
+  "description": "Boton verde para tu web de prueba ",
+  "keywords": [],
+  "peerDependencies": {
+    "@angular/common": "^12.2.0",
+    "@angular/core": "^12.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
